@@ -1,12 +1,12 @@
-## 👋 Salut, moi c’est Joffrey
+## 👋 Hi, I'm Joffrey.
 
-Développeur web full-stack orienté produits.
-Je conçois des applications web fiables, maintenables et pensées pour évoluer.
-Actuellement ouvert à un poste en CDI, tout en développant des projets SaaS personnels.
+Product-oriented full-stack developer.
+I design reliable, maintainable web applications that are built to evolve.
+Currently open to a permanent position, while developing personal SaaS projects.
 
 ---
 
-### 🧠 Stack principale
+### 🧠 Main Stack
 
 **Frontend**
 - Vue.js / Nuxt.js
@@ -31,36 +31,36 @@ Actuellement ouvert à un poste en CDI, tout en développant des projets SaaS pe
 **Autres**
 - Python
 - Scraping
-- Web3 (en formation – smart contracts & dApps)
+- Web3 (in training – smart contracts & dApps)
 
 ---
 
-### 🚀 Ce que je fais concrètement
+### 🚀 What I do in practice
 
-- Développement d’applications web complètes (front + back)
-- Conception et consommation d’API
-- Mise en place d’architectures maintenables
-- Automatisation de workflows
-- Déploiement et industrialisation de projets
+- Development of complete web applications (front + back)
+- API design and consumption
+- Implementation of maintainable architectures
+- Workflow automation
+- Project deployment and industrialisation
 
 ---
 
-### 📂 Projets sélectionnés
+### 📂 Selected projects
 
-> Une sélection de projets représentatifs de mon travail.
-> Certains projets sont privés pour des raisons professionnelles ou personnelles.
+> A selection of projects representative of my work.
+> Some projects are private for professional or personal reasons.
 
-🔹 **[Nom du projet]**  
-Application web full-stack orientée produit  
-Stack : Next.js, Node.js, PostgreSQL, Docker  
+🔹 **[Project name]**  
+Product-oriented full-stack web application  
+Stack: Next.js, Node.js, PostgreSQL, Docker  
 
-🔹 **[Nom du projet]**  
-API REST sécurisée avec gestion des rôles  
-Stack : Laravel, SQL, Auth  
+🔹 **[Project name]**  
+Secure REST API with role management  
+Stack: Laravel, SQL, Auth  
 
-🔹 **Projet Web3 – Smart Contract (à venir)**  
-Système de vote simple basé sur un smart contract  
-Stack : Solidity, Hardhat, Frontend web  
+🔹 **Web3 Project – Smart Contract (coming soon)**  
+Simple voting system based on a smart contract  
+Stack: Solidity, Hardhat, Web frontend  
 
 ---
 
@@ -70,7 +70,7 @@ Stack : Solidity, Hardhat, Frontend web
 
 ---
 
-### 🌍 Me retrouver
+### 🌍 Find myself
 
 - Portfolio : https://[ton-site]
 - LinkedIn : https://linkedin.com/in/[ton-profil]
