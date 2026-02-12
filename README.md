@@ -4,21 +4,27 @@ Product-oriented full-stack developer.
 I design reliable, maintainable web applications that are built to evolve.
 Currently open to a permanent position, while developing personal SaaS projects.
 
+[![My Skills](https://skillicons.dev/icons?i=vue,nuxtjs,react,nextjs,ts,laravel,nodejs,express,graphql,mysql,postgres,mongodb,firebase,redis,git,docker)](https://skillicons.dev)
 ---
 
 ### 🧠 Main Stack
 
 **Frontend**
-[![frontend](https://skillicons.dev/icons?i=vue,nuxtjs,react,nextjs,ts)](https://skillicons.dev)
+- Vue.js / Nuxt.js
+- React / Next.js
+- TypeScript
 
 **Backend**
-[![backend](https://skillicons.dev/icons?i=laravel,nodejs,express,graphql)](https://skillicons.dev)
+- Laravel
+- Node.js / Express
+- API REST / GraphQL
 
-**Database**
-[![bdd](https://skillicons.dev/icons?i=postgres,mysql,firebase,supabase,mongodb,redis)](https://skillicons.dev)
+**Base de données**
+- SQL / bases relationnelles
+- Firebase / Supabase
+- NoSQL
 
 **DevOps & Tools**
-[![devops&tools](https://skillicons.dev/icons?i=git,docker)](https://skillicons.dev)
 - Git / CI-CD
 - Docker / Dokploy
 - Automatisation (n8n)
@@ -27,7 +33,6 @@ Currently open to a permanent position, while developing personal SaaS projects.
 - Python
 - Scraping
 - Web3 (in training – smart contracts & dApps)
-[![bdd](https://skillicons.dev/icons?i=git,docker,firebase,supabase,mongodb)](https://skillicons.dev)
 
 ---
 
@@ -70,4 +75,5 @@ Stack: Solidity, Hardhat, Web frontend
 
 - Portfolio : https://[ton-site]
 - LinkedIn : https://linkedin.com/in/[ton-profil]
+
 
