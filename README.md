@@ -9,21 +9,16 @@ Currently open to a permanent position, while developing personal SaaS projects.
 ### 🧠 Main Stack
 
 **Frontend**
-- Vue.js / Nuxt.js
-- React / Next.js
-- TypeScript
+[![frontend](https://skillicons.dev/icons?i=vue,nuxtjs,react,nextjs,ts)](https://skillicons.dev)
 
 **Backend**
-- Laravel
-- Node.js / Express
-- API REST / GraphQL
+[![backend](https://skillicons.dev/icons?i=laravel,nodejs,express,graphql)](https://skillicons.dev)
 
-**Base de données**
-- SQL / bases relationnelles
-- Firebase / Supabase
-- NoSQL
+**Database**
+[![bdd](https://skillicons.dev/icons?i=postgres,mysql,firebase,supabase,mongodb,redis)](https://skillicons.dev)
 
 **DevOps & Tools**
+[![devops&tools](https://skillicons.dev/icons?i=git,docker)](https://skillicons.dev)
 - Git / CI-CD
 - Docker / Dokploy
 - Automatisation (n8n)
@@ -32,6 +27,7 @@ Currently open to a permanent position, while developing personal SaaS projects.
 - Python
 - Scraping
 - Web3 (in training – smart contracts & dApps)
+[![bdd](https://skillicons.dev/icons?i=git,docker,firebase,supabase,mongodb)](https://skillicons.dev)
 
 ---
 
