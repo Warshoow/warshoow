@@ -4,7 +4,7 @@ Product-oriented full-stack developer.
 I design reliable, maintainable web applications that are built to evolve.
 Currently open to a permanent position, while developing personal SaaS projects.
 
-[![My Skills](https://skillicons.dev/icons?i=vue,nuxtjs,react,nextjs,ts,laravel,nodejs,express,graphql,mysql,postgres,mongodb,firebase,redis,git,docker)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=tailwind,bootstrap,js,vue,nuxtjs,react,nextjs,ts,php,laravel,nodejs,express,adonis,graphql,mysql,postgres,mongodb,firebase,redis,git,docker,py,vscode,notion)](https://skillicons.dev)
 ---
 
 ### 🧠 Main Stack
