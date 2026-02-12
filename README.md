@@ -19,7 +19,7 @@ Currently open to a permanent position, while developing personal SaaS projects.
 - Node.js / Express
 - API REST / GraphQL
 
-**Base de données**
+**Database**
 - SQL / bases relationnelles
 - Firebase / Supabase
 - NoSQL
@@ -27,9 +27,9 @@ Currently open to a permanent position, while developing personal SaaS projects.
 **DevOps & Tools**
 - Git / CI-CD
 - Docker / Dokploy
-- Automatisation (n8n)
+- Automation (n8n)
 
-**Autres**
+**Others**
 - Python
 - Scraping
 - Web3 (in training – smart contracts & dApps)
@@ -73,7 +73,7 @@ Stack: Solidity, Hardhat, Web frontend
 
 ### 🌍 Find myself
 
-- Portfolio : https://[ton-site]
-- LinkedIn : https://linkedin.com/in/[ton-profil]
+- Portfolio : https://devbook.code-spot.fr/
+- LinkedIn : https://www.linkedin.com/in/joffrey-guilmeau/
 
 
