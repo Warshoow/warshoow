@@ -3,7 +3,7 @@
 Product-oriented full-stack developer — Vue/Nuxt, Next.js, Laravel, Node.
 I build web applications meant to survive their own growth, and I automate everything around them.
 
-**Currently open to a permanent position**, while shipping my own SaaS projects on the side.
+Employed full-time, shipping my own SaaS projects on the side. Open to interesting conversations.
 [Portfolio](https://devbook.code-spot.fr/) · [LinkedIn](https://www.linkedin.com/in/joffrey-guilmeau/)
 
 [![My Skills](https://skillicons.dev/icons?i=js,ts,vue,nuxtjs,react,nextjs,tailwind,php,laravel,nodejs,express,postgres,mysql,redis,docker,git,py,rust)](https://skillicons.dev)
