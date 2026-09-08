@@ -1,79 +1,44 @@
 ## 👋 Hi, I'm Joffrey.
 
-Product-oriented full-stack developer.
-I design reliable, maintainable web applications that are built to evolve.
-Currently open to a permanent position, while developing personal SaaS projects.
+Product-oriented full-stack developer — Vue/Nuxt, Next.js, Laravel, Node.
+I build web applications meant to survive their own growth, and I automate everything around them.
 
-[![My Skills](https://skillicons.dev/icons?i=tailwind,bootstrap,js,vue,nuxtjs,react,nextjs,ts,php,laravel,nodejs,express,adonis,rust,graphql,mysql,postgres,mongodb,firebase,redis,git,docker,py,vscode,notion,obsidian)](https://skillicons.dev)
----
+**Currently open to a permanent position**, while shipping my own SaaS projects on the side.
+[Portfolio](https://devbook.code-spot.fr/) · [LinkedIn](https://www.linkedin.com/in/joffrey-guilmeau/)
 
-### 🧠 Main Stack
-
-**Frontend**
-- Vue.js / Nuxt.js
-- React / Next.js
-- TypeScript
-
-**Backend**
-- Laravel
-- Node.js / Express
-- API REST / GraphQL
-
-**Database**
-- SQL / bases relationnelles
-- Firebase / Supabase
-- NoSQL
-
-**DevOps & Tools**
-- Git / CI-CD
-- Docker / Dokploy
-- Automation (n8n)
-
-**Others**
-- Python
-- Scraping
-- Web3 (in training – smart contracts & dApps)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,vue,nuxtjs,react,nextjs,tailwind,php,laravel,nodejs,express,postgres,mysql,redis,docker,git,py,rust)](https://skillicons.dev)
 
 ---
 
-### 🚀 What I do in practice
+### 🧠 Stack
 
-- Development of complete web applications (front + back)
-- API design and consumption
-- Implementation of maintainable architectures
-- Workflow automation
-- Project deployment and industrialisation
-
----
-
-### 📂 Selected projects
-
-> A selection of projects representative of my work.
-> Some projects are private for professional or personal reasons.
-
-🔹 **[Project name]**  
-Product-oriented full-stack web application  
-Stack: Next.js, Node.js, PostgreSQL, Docker  
-
-🔹 **[Project name]**  
-Secure REST API with role management  
-Stack: Laravel, SQL, Auth  
-
-🔹 **Web3 Project – Smart Contract (coming soon)**  
-Simple voting system based on a smart contract  
-Stack: Solidity, Hardhat, Web frontend  
+| | |
+|---|---|
+| **Front** | Vue / Nuxt · React / Next.js · TypeScript · Tailwind |
+| **Back** | Laravel · Node / Express · REST & GraphQL |
+| **Data** | PostgreSQL · MySQL · Supabase / Firebase · Redis |
+| **Ops** | Docker · CI-CD · Dokploy · n8n |
+| **Also** | Python (scraping, automation) · Rust on side projects · Solidity, learning |
 
 ---
 
-### 📈 GitHub
+### 📂 Projects
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=warshoow&show_icons=true&hide_title=true)
+Some of my work is private, for professional or personal reasons. What's open:
+
+🔹 **[claude-kit](https://github.com/Warshoow/claude-kit)** — Desktop app to manage Claude Code assets as reusable bundles and apply them to any project in one click. *Tauri 2, Vue 3, Rust.*
+
+🔹 **[afk.sh](https://github.com/Warshoow/afk.sh)** — Orchestrator that runs headless Claude Code sessions over GitHub tickets: one ticket, one fresh session, one worktree, one verified PR. No LLM in the orchestrator itself. *Bash, GitHub CLI.*
+
+🔹 **[billing-ops](https://github.com/Warshoow/billing-ops)** — Stripe decision dashboard (MVP): payments and subscriptions at a glance, without their interface. *TypeScript.*
+
+🔹 **[game-engine](https://github.com/Warshoow/game-engine)** — Voxel engine built by hand on Bevy: chunk storage, meshing and streaming written from scratch rather than pulled from a crate. Learning project. *Rust.*
+
+Behind closed doors: **Trainr**, a coaching SaaS (Next.js, TypeScript, Postgres, Docker), plus the automation tools I use daily.
 
 ---
 
-### 🌍 Find myself
+### 🌍 Elsewhere
 
-- Portfolio : https://devbook.code-spot.fr/
-- LinkedIn : https://www.linkedin.com/in/joffrey-guilmeau/
-
-
+- Portfolio — https://devbook.code-spot.fr/
+- LinkedIn — https://www.linkedin.com/in/joffrey-guilmeau/
